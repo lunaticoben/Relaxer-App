@@ -1,4 +1,4 @@
-# Relaxer-App
+# Relaxer App
 A relaxing breathing app (from Brad Traversy Projects) with a visual director to tell you when to breathe in, hold and breathe out. 
 
 # Project Specifications
